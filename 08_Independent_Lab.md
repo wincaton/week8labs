@@ -4,7 +4,7 @@ In this assignment, you will use advanced functions in `pandas` to query and fil
 
 Please use the [gh_turnover_four_projects.csv](data/gh_turnover_four_projects.csv) file provided in the data folder to complete the tasks outline below. 
 
-Context: This dataset contains information about four projects hosted on GitHub and the contributors to those projects over a period of time. The dataset represents a subset of data that has been combined and aggregated from the data published by Vasilescu et al. in [their 2015 Mining Software Repositories conference paper](http://doi.org/10.1109/MSR.2015.77). The data in gh_turnover_four_projects.csv were prepared by me (Olivia B. Newton) for an analysis of turnover in GitHub projects. To make the dataset more manageable for the assignment, I have selected four projects from my original dataset which includes data for over 22,000 projects.
+*Data Summary*: This dataset contains information about four projects hosted on GitHub and the contributors to those projects over a period of time. The dataset represents a subset of data that has been combined and aggregated from the data published by Vasilescu et al. in [their 2015 Mining Software Repositories conference paper](http://doi.org/10.1109/MSR.2015.77). The data in gh_turnover_four_projects.csv were prepared by me (Olivia B. Newton) for an analysis of turnover in GitHub projects. To make the dataset more manageable for the assignment, I have selected four projects from my original dataset which includes data for over 22,000 projects.
 
 ## Rename Columns
 
