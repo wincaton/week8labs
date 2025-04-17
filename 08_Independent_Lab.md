@@ -34,10 +34,10 @@ Note, some of the tasks ask you to use regular expressions. We have not covered 
 1. Calculate the mean of `user_commits`. 
 2. Calculate the median of `user_commits`.
 3. Select all columns that start with a *p* (i.e., `(^p)`) **or** contain an *g* (i.e., `(g)`). Save it as a new DataFrame named `turnover_new`. Output the columns in your notebook.
-4. Using your newly created DataFrame `p_or_g`, select rows in which `project_commits` is greater than 9,000.
+4. Using your newly created DataFrame `turnover_new`, select rows in which `project_commits` is greater than 9,000.
 5. Using pandas piping notation, perform the previous two operations together and save it as a new DataFrame `turnover_newer`. This means you should select columns that start with a *p* or contain an *g* and select rows in which `project_commits` is greater than 9,000.
 
 For the following tasks, *do not use* `turnover_new` or `turnover_newer`. Instead, use the original DataFrame you initially created from the provided file.
 
-1. Using pandas piping notation, select all columns that end with the letter *e* (i.e., `e$`) or contain the letter *q* (i.e., `q`). Additionally, select rows in which `gh_tenure` is greater than or equal to 1,991. 
+1. Using pandas piping notation, select all columns that end with the letter *e* (i.e., `e$`) or contain the letter *s* (i.e., `s`). Additionally, select rows in which `gh_tenure` is greater than or equal to 1,991. 
 2. Use the query you just performed. You will calculate the mean and median of `user_commits`. How does it compare to the answers above in which you calculated the mean and median? Please provide your answer in a Markdown cell within your notebook.
