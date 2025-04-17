@@ -17,7 +17,7 @@ Please perform the following operations in order:
 * How many teams are in the `Small` or `Large` category with a `human_gini` value less than and equal to 0.25?
 * How many `human` teams are in the `Medium` category?
 * Save the columns `Team_size_class` and `work_per_human` as a new DataFrame.
-* Rename these two columns in the new DataFrame. Change `human_gini` to `work_inequality` and `eval_survival_day_median` to `issue_resolution_time`.
+* Rename these two columns in a new DataFrame: change `human_gini` to `work_inequality` and `eval_survival_day_median` to `issue_resolution_time`.
 
 ## Dataset Contents
 
